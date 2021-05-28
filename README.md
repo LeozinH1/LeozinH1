@@ -5,5 +5,5 @@
 - 🌐 LinkedIn: https://www.linkedin.com/in/leozinh1
 -  Discord: LeozinH1#4061
 -  
-![visitors](https://img.shields.io/badge/discord-LeozinH1%234061-%237289da.svg?logo=discord)
+![discord](https://img.shields.io/badge/discord-LeozinH1%234061-%237289da.svg?logo=discord)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${LeozinH1}.${LeozinH1})
