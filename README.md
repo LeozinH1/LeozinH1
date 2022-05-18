@@ -4,7 +4,7 @@
 - 📫 Email: leonardosj98@hotmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/leozinh1
 
-### My projects
+### My projects 🚀
 
 - https://www.leozin.dev
 - https://creators.leozin.dev
