@@ -10,3 +10,4 @@
 - https://creators.leozin.dev
 - https://netuno.leozin.dev
 - https://steambuddy.leozin.dev
+- https://gbexplorer.leozin.dev
