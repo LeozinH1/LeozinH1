@@ -6,7 +6,7 @@
 
 ### My projects 🚀
 
-- https://www.leozin.dev
+- https://leozin.dev
 - https://creators.leozin.dev
 - https://netuno.leozin.dev
 - https://steambuddy.leozin.dev
