@@ -4,5 +4,7 @@
 - 📫 Email: leonardosj98@hotmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/leozinh1
 - 👨‍💼 Website: https://leozin.vercel.app/
-
+- 
+<p align="center">
 ![LeozinH1 GitHub stats](https://github-readme-stats.vercel.app/api?username=leozinh1&theme=dark&show_icons=true)
+ </p>
